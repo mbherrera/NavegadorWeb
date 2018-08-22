@@ -1,0 +1,113 @@
+C:\Users\Matias\AppData\Local\Temporary Projects\ExploradorPGSys\bin\Debug\ExploradorPGSys.exe
+C:\Users\Matias\AppData\Local\Temporary Projects\ExploradorPGSys\bin\Debug\ExploradorPGSys.pdb
+C:\Users\Matias\AppData\Local\Temporary Projects\ExploradorPGSys\bin\Debug\ExploradorPGSys.xml
+C:\Users\Matias\AppData\Local\Temporary Projects\ExploradorPGSys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matias\AppData\Local\Temporary Projects\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.Resources.resources
+C:\Users\Matias\AppData\Local\Temporary Projects\ExploradorPGSys\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Matias\AppData\Local\Temporary Projects\ExploradorPGSys\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Matias\AppData\Local\Temporary Projects\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.exe
+C:\Users\Matias\AppData\Local\Temporary Projects\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.xml
+C:\Users\Matias\AppData\Local\Temporary Projects\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.pdb
+C:\Users\Matias\AppData\Local\Temporary Projects\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.explorador.resources
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.exe.config
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.exe.manifest
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.application
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.exe
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.pdb
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.xml
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.adminsitiosvb.resources
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.configuracion.resources
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.explorador.resources
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.inputbox.resources
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.Resources.resources
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.TrustInfo.xml
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.exe.manifest
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.application
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.exe
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.xml
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.pdb
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.exe.config
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.exe.manifest
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.application
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.exe
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.pdb
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.xml
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.acercade.resources
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.adminsitiosvb.resources
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.configuracion.resources
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.explorador.resources
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.inputbox.resources
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.Resources.resources
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.nuevaven.resources
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.TrustInfo.xml
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.exe.manifest
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.application
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.exe
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.xml
+C:\Users\Matias\Desktop\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.pdb
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.acercade.resources
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.nuevaven.resources
+E:\documentos\Mis Programas\Larrain y Vila\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.vbproj.GenerateResource.Cache
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.exe.config
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.exe.manifest
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.application
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.exe
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.pdb
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Explorador Asa.xml
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.acercade.resources
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.adminsitiosvb.resources
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.configuracion.resources
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.explorador.resources
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.inputbox.resources
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.Resources.resources
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.nuevaven.resources
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.vbproj.GenerateResource.Cache
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.TrustInfo.xml
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.exe.manifest
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.application
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.exe
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.xml
+C:\Users\Matias\Documents\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Explorador Asa.pdb
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Navegador Asa.exe.config
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Navegador Asa.exe.manifest
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Navegador Asa.application
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Navegador Asa.exe
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Navegador Asa.pdb
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Navegador Asa.xml
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.acercade.resources
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.adminsitiosvb.resources
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.configuracion.resources
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.explorador.resources
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.inputbox.resources
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.Resources.resources
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.nuevaven.resources
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.vbproj.GenerateResource.Cache
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Navegador Asa.TrustInfo.xml
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Navegador Asa.exe.manifest
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Navegador Asa.application
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Navegador Asa.exe
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Navegador Asa.xml
+D:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Navegador Asa.pdb
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Navegador Asa.exe.config
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Navegador Asa.exe
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Navegador Asa.xml
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Navegador Asa.pdb
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Navegador Asa.exe.manifest
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Navegador Asa.application
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Navegador Asa.exe
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Navegador Asa.pdb
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\bin\Debug\Navegador Asa.xml
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.acercade.resources
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.adminsitiosvb.resources
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.configuracion.resources
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.explorador.resources
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.inputbox.resources
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.Resources.resources
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.nuevaven.resources
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\ExploradorPGSys.vbproj.GenerateResource.Cache
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Navegador Asa.TrustInfo.xml
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Navegador Asa.exe.manifest
+E:\Visual Studio 2010\Projects\ExploradorPGSys\ExploradorPGSys\obj\x86\Debug\Navegador Asa.application
